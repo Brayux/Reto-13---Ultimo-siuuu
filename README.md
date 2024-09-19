@@ -108,11 +108,6 @@ Imprima los nombres completos (nombre y apellidos) de las personas que esten en 
 ````
 Solución:
 ````python
-#RETO 13 - Parte 3
-"""
-Imprima los nombres completos (nombre y apellidos) de las personas que practican el deporte ingresado por el usuario.
-Imprima los nombres completos (nombre y apellidos) de las personas que están en en un rango de edades dado por el usuario.
-"""
 import json
 
 def deportes(data):
